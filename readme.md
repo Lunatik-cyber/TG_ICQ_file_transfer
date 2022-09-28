@@ -13,7 +13,7 @@
 
 1. Скачайте и установите [Python](https://python.org) или `apt install python3 python3-pip`.
 2. Скачайте репозиторий
-3. Установите зависимости: `pip install requements.txt` или `pip3 install requements.txt`.
+3. Установите зависимости: `pip install requirements.txt` или `pip3 install requirements.txt`.
 4. Введите команду: `cd bot-python-icq; python setup.py install` или `cd bot-python-icq; python3 setup.py install`.
 5. Для запуска рекомендуется использовать [PM2](https://pm2.keymetrics.io/)
 6. Добавьте ваши данные в файл `config.py`
